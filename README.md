@@ -1,4 +1,4 @@
-# Job_search-tracker_python-
+# JobSearchtrackerPython
 A simple GUI in python to track your JOBS
 
 # Job Application Tracker
