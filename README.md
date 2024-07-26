@@ -1,6 +1,13 @@
 # JobSearchtrackerPython
 A simple GUI in python to track your JOBS
 
+![image](https://github.com/user-attachments/assets/d6f53fc9-a42d-4a7c-9ba7-84d9dd0e284f)
+
+![image](https://github.com/user-attachments/assets/4e2a14b8-912e-429c-819d-aecb6773012f)
+
+![image](https://github.com/user-attachments/assets/f413b026-ddbc-46e2-a704-c1bd8dba009c)
+
+
 # Job Application Tracker
 
 ## Overview
@@ -18,6 +25,29 @@ The Job Application Tracker is a simple desktop application built with Python's 
 ## Prerequisites
 Before running the Job Application Tracker, ensure you have the following:
 - Python 3.x installed on your system.
+- tkinter package
+
+  ## TroubleShoting:
+If tkinter is not installed, you'll need to install it using your package manager.
+### On Ubuntu/Debian:
+Open a terminal and run:
+
+```sh
+sudo apt-get update
+sudo apt-get install python3-tk
+```
+
+### On macOS:
+If you installed Python using brew, you might need to install the tcl-tk dependency:
+
+```sh
+brew install tcl-tk
+brew link --overwrite tcl-tk
+```
+Then, ensure Python uses the correct version:
+```bash
+brew reinstall python
+```
 
 ## How to Use
 1. Clone the repository or download the `job_application_tracker.py` file to your local machine.
