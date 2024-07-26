@@ -46,4 +46,4 @@ You can modify the target number of job applications by changing the `self.targe
 This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
-For support, feedback, or contributions, please contact [your-email@example.com].
+For support, feedback, or contributions, please contact me on www.linkedin.com/in/chinmayrozekar.
